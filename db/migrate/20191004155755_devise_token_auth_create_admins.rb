@@ -34,6 +34,13 @@ class DeviseTokenAuthCreateAdmins < ActiveRecord::Migration[5.2]
       t.string :image
       t.string :email
 
+      ## Trackable
+      t.integer :sign_in_count
+      t.datetime :current_sign_in_at
+      t.datetime :last_sign_in_at
+      t.string :current_sign_in_ip
+      t.string :last_sign_in_ip
+
       ## Tokens
       t.json :tokens
 

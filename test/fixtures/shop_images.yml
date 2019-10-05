@@ -3,7 +3,9 @@
 one:
   image: MyString
   type: 
+  shop: one
 
 two:
   image: MyString
   type: 
+  shop: two

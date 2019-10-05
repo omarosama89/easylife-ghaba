@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  phone_number: MyString
+  images: MyString
+  social_media_links: MyString
+  lat: MyString
+  lng: MyString
+
+two:
+  phone_number: MyString
+  images: MyString
+  social_media_links: MyString
+  lat: MyString
+  lng: MyString

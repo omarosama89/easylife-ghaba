@@ -1,4 +1,4 @@
-class Admin::OffersController < ApplicationController
+class Admin::OffersController < Admin::AdminController
   before_action :set_offer, only: [:show, :update, :destroy]
 
   # GET /offers

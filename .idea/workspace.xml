@@ -2,43 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8835532-4762-4913-9e46-60ad0d72529e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ghaba.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ghaba.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/admin/admin_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/admin/admin_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/admin/events_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/admin/events_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/admin/news_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/admin/news_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/admin/offers_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/admin/offers_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/admin/services_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/admin/services_controller.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/admin/shops_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/admin/shops_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/offer/image/1/realtime-before.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/18/circleci.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/19/balsamee.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/20/docker-compose-build.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/21/realtime-before.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/25/circleci.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/26/balsamee.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/27/docker-compose-build.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/28/realtime-before.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/29/circleci.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/30/balsamee.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/31/docker-compose-build.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/32/realtime-before.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/33/circleci.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/34/balsamee.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/35/docker-compose-build.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/36/realtime-before.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/37/circleci.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/38/balsamee.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/39/docker-compose-build.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/4/circleci.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/40/realtime-before.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/41/circleci.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/42/balsamee.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/43/docker-compose-build.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/44/realtime-before.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/5/balsamee.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/6/docker-compose-build.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/shop_image/image/7/realtime-before.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -59,52 +28,25 @@
         <entry file="file://$PROJECT_DIR$/app/controllers/admin/admin_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+              <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20191009021024_remove_social_media_links_from_shops.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/migrate/20191009021024_remove_social_media_links_from_shops.rb">
+      <file leaf-file-name="offers_controller.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/admin/offers_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+            <state>
+              <caret column="54" selection-start-column="54" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
+      <file leaf-file-name="services_controller.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/admin/services_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.json.jbuilder" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/admin/shops/index.json.jbuilder">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shops_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/admin/shops_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+            <state>
+              <caret column="56" selection-start-column="56" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -112,8 +54,8 @@
       <file leaf-file-name="advertisements_controller.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/admin/advertisements_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+            <state>
+              <caret column="62" lean-forward="true" selection-start-column="40" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -121,26 +63,26 @@
       <file leaf-file-name="events_controller.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/admin/events_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+            <state>
+              <caret column="54" selection-start-column="54" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shop.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/shop.rb">
+      <file leaf-file-name="news_controller.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/admin/news_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+            <state>
+              <caret column="52" selection-start-column="52" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20191005105757_rename_type_to_image_type_in_shop_images.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/migrate/20191005105757_rename_type_to_image_type_in_shop_images.rb">
+      <file leaf-file-name="shops_controller.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/controllers/admin/shops_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+            <state>
+              <caret column="53" selection-start-column="53" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -167,10 +109,6 @@
         <option value="$PROJECT_DIR$/app/models/event.rb" />
         <option value="$PROJECT_DIR$/app/models/service.rb" />
         <option value="$PROJECT_DIR$/app/models/offer.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/admin/events_controller.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/admin/news_controller.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/admin/offers_controller.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/admin/services_controller.rb" />
         <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
         <option value="$PROJECT_DIR$/config/application.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20191004155755_devise_token_auth_create_admins.rb" />
@@ -181,14 +119,18 @@
         <option value="$PROJECT_DIR$/config/initializers/devise_token_auth.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20191005105757_rename_type_to_image_type_in_shop_images.rb" />
         <option value="$PROJECT_DIR$/app/models/shop.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/admin/admin_controller.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20191009021024_remove_social_media_links_from_shops.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20191009021128_add_social_meddia_links_to_shops.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/views/admin/shops/index.json.erb" />
-        <option value="$PROJECT_DIR$/app/controllers/admin/shops_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/admin/shops/index.json.jbuilder" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/controllers/admin/admin_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/admin/events_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/admin/news_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/admin/offers_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/admin/services_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/admin/shops_controller.rb" />
       </list>
     </option>
   </component>
@@ -226,6 +168,19 @@
               <item name="ghaba" type="b2602c69:ProjectViewProjectNode" />
               <item name="ghaba" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ghaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ghaba" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ghaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ghaba" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="models" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -251,7 +206,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value=".gitig&#9;FILE&#9;file:///home/omar/workbench/easylife/ghaba/.gitignore&#10;gem&#9;FILE&#9;file:///home/omar/workbench/easylife/ghaba/Gemfile&#10;shops_control&#9;FILE&#9;file:///home/omar/workbench/easylife/ghaba/app/controllers/admin/shops_controller.rb&#10;admin&#9;FILE&#9;file:///home/omar/workbench/easylife/ghaba/app/controllers/admin/admin_controller.rb&#10;shop&#9;FILE&#9;file:///home/omar/workbench/easylife/ghaba/app/models/shop.rb&#10;adverti&#9;FILE&#9;file:///home/omar/workbench/easylife/ghaba/app/models/advertisement.rb&#10;devise&#9;FILE&#9;file:///home/omar/workbench/easylife/ghaba/config/initializers/devise.rb&#10;adver&#9;FILE&#9;file:///home/omar/workbench/easylife/ghaba/app/controllers/admin/advertisements_controller.rb&#10;routes&#9;FILE&#9;file:///home/omar/workbench/easylife/ghaba/config/routes.rb&#10;applica&#9;null&#9;null&#10;gemfile&#9;FILE&#9;file:///home/omar/workbench/easylife/ghaba/Gemfile&#10;offer&#9;null&#9;null&#10;service&#9;null&#9;null&#10;event&#9;null&#9;null&#10;new&#9;null&#9;null&#10;image&#9;null&#9;null&#10;da&#9;FILE&#9;file:///home/omar/workbench/easylife/ghaba/config/database.yml" />
+    <property name="SearchEverywhereHistoryKey" value="offer&#9;FILE&#9;file:///home/omar/workbench/easylife/ghaba/app/controllers/admin/offers_controller.rb&#10;admin&#9;FILE&#9;file:///home/omar/workbench/easylife/ghaba/app/controllers/admin/admin_controller.rb&#10;.gitig&#9;FILE&#9;file:///home/omar/workbench/easylife/ghaba/.gitignore&#10;gem&#9;FILE&#9;file:///home/omar/workbench/easylife/ghaba/Gemfile&#10;shops_control&#9;FILE&#9;file:///home/omar/workbench/easylife/ghaba/app/controllers/admin/shops_controller.rb&#10;shop&#9;FILE&#9;file:///home/omar/workbench/easylife/ghaba/app/models/shop.rb&#10;adverti&#9;FILE&#9;file:///home/omar/workbench/easylife/ghaba/app/models/advertisement.rb&#10;devise&#9;FILE&#9;file:///home/omar/workbench/easylife/ghaba/config/initializers/devise.rb&#10;adver&#9;FILE&#9;file:///home/omar/workbench/easylife/ghaba/app/controllers/admin/advertisements_controller.rb&#10;routes&#9;FILE&#9;file:///home/omar/workbench/easylife/ghaba/config/routes.rb&#10;applica&#9;null&#9;null&#10;gemfile&#9;FILE&#9;file:///home/omar/workbench/easylife/ghaba/Gemfile&#10;service&#9;null&#9;null&#10;event&#9;null&#9;null&#10;new&#9;null&#9;null&#10;image&#9;null&#9;null&#10;da&#9;FILE&#9;file:///home/omar/workbench/easylife/ghaba/config/database.yml" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -380,12 +335,12 @@
       <option name="presentableId" value="Default" />
       <updated>1570202504916</updated>
       <workItem from="1570202509245" duration="11167000" />
-      <workItem from="1570579233737" duration="3506000" />
+      <workItem from="1570579233737" duration="6454000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14673000" />
+    <option name="totallyTimeSpent" value="17621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -538,27 +493,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/admin/news_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/admin/offers_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/admin/services_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20191004164242_create_shops.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -636,20 +570,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/admin/events_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/admin/admin_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20191009021024_remove_social_media_links_from_shops.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -674,20 +594,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/admin/advertisements_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/admin/shops_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/admin/shops/index.json.jbuilder">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -699,6 +605,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/admin/admin_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/admin/advertisements_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="62" lean-forward="true" selection-start-column="40" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/admin/events_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="54" selection-start-column="54" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/admin/news_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="52" selection-start-column="52" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/admin/offers_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="54" selection-start-column="54" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/admin/services_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="56" selection-start-column="56" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/admin/shops_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="53" selection-start-column="53" selection-end-column="53" />
         </state>
       </provider>
     </entry>

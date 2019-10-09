@@ -1,4 +1,4 @@
-class Admin::NewsController < ApplicationController
+class Admin::NewsController < Admin::AdminController
   before_action :set_news, only: [:show, :update, :destroy]
 
   # GET /news

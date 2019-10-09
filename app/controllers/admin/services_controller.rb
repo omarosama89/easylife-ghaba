@@ -1,4 +1,4 @@
-class Admin::ServicesController < ApplicationController
+class Admin::ServicesController < Admin::AdminController
   before_action :set_service, only: [:show, :update, :destroy]
 
   # GET /services

@@ -4,8 +4,8 @@ class Admin::ShopsController < ApplicationController
   # GET /shops
   def index
     @shops = Shop.all
-
-    render json: @shops
+    # render json: @shops
+    render 'admin/shops/index'
   end
 
   # GET /shops/1
@@ -46,6 +46,6 @@ class Admin::ShopsController < ApplicationController
 
     # Only allow a trusted parameter "white list" through.
     def shop_params
-      params.require(:shop).permit(:phone_number, :social_media_links, :lat, :lng, :social_media_links, shop_images_attributes: [:id, :image, :image_type])
+      params.require(:shop).permit(:name, :phone_number, :social_media_links, :lat, :lng, :facebook, :instagram, :twitter, shop_images_attributes: [:id, :image, :image_type])
     end
 end
